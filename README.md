@@ -1,5 +1,8 @@
 # cpnatal19
-Workshop about deploy on heroku with Terraform
+Heroku workshop exercise deploy with Terraform
+
+Speaker:
+Genilson Filho (https://github.com/jgdsfilho)
 
 Related links:
 https://github.com/jgdsfilho/terraform-heroku-cpnatal
